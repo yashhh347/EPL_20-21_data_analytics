@@ -36,6 +36,10 @@ $ streamlit run main.py
 ```
 $ deactivate
 ```
+### Teammates
+Anoop Lanjekar
+Yash Katolkar
+Prathmesh Awachar
 
 ### Screenshot
 
